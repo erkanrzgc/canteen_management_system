@@ -1,0 +1,11 @@
+Beverage Water 2 500
+Beverage Lemonade 4 300
+Beverage Coffee 6 250
+Beverage Tea 3 200
+Beverage Mixed Juice 5 350
+Food Chips 3.5 Plain
+Food Sandwich 5 Chicken
+Food Toast 4 Cheese
+Food Chocolate 2.5 Dark
+Food Biscuit 2 Butter
+Food Pastry 3 Plain
